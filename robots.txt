@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-d657dr.nuansa138.site/sitemap.xml
